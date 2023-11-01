@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="already_nhave_an_naccount">Already \nhave an \nAccount?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="use_other_methods">Use other Methods</string>
+    <string name="facebook_login">facebook login</string>
+    <string name="plus">plus</string>
+    <string name="google_login">google login</string>
+    <string name="login_design">login design</string>
+    <string name="here_s_nyour_first_nstep_with_nus">Here’s\nyour first\nstep with \nus!</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="img_back">img back</string>
+    <string name="all_fields_must_be_filled">all fields must be filled!</string>
+    <string name="something_went_wrong">something went wrong!</string>
+    <string name="register_successfully">register successfully!</string>
+    <string name="default_web_client_id">xxx xxx xxx xxx xxx</string>
+    <string name="welcome">WELCOME !</string>
+    <string name="forgot_npassword">Forgot\nPassword?</string>
+    <string name="reset">Reset</string>
+
+    <string name="password_reset_success">Password reset email sent successfully.</string>
+    <string name="password_reset_failed">Error sending password reset email.</string>
+</resources>
