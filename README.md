@@ -53,4 +53,5 @@ This project demonstrates how to implement Firebase Authentication in an Android
 - Click on the "Forgot Password?" link on the login screen.
 - Enter your registered email address and click "Reset Password". You will receive an email with instructions to reset your password.
 
-
+## Don't Forget to Star ⭐
+If you found this project useful or had fun exploring it, please consider giving it a star. It's a great way to show your appreciation and it puts a smile on my face! 😊🌟
